@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    
+		<meta name="viewport" content="initial-scale=1.0, user-scalable=no" />
+		
+		 <!-- Internal Style Sheet -->
+		 <style type="text/css">
+      html { height: 100% }
+      body { height: 100%; margin: 0; padding: 0 }
+      #map-canvas { height: 100% }
+			#header_container {
+			  background-color:black;			
+				text-align: center;
+				height: 15%;
+			}
+			#header {
+        color: red;
+        font-weight: bold;
+        font-size: 30px;
+        font-family: 'Orienta', sans-serif;
+		}
+		
+		/* This button was generated using CSSButtonGenerator.com */
+    .addButton {
+    	-moz-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+    	-webkit-box-shadow:inset 0px 1px 0px 0px #dcecfb;
+    	box-shadow:inset 0px 1px 0px 0px #dcecfb;
+    	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #bddbfa), color-stop(1, #80b5ea) );
+    	background:-moz-linear-gradient( center top, #bddbfa 5%, #80b5ea 100% );
+    	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#bddbfa', endColorstr='#80b5ea');
+    	background-color:#bddbfa;
+    	-webkit-border-top-left-radius:0px;
+    	-moz-border-radius-topleft:0px;
+    	border-top-left-radius:0px;
+    	-webkit-border-top-right-radius:0px;
+    	-moz-border-radius-topright:0px;
+    	border-top-right-radius:0px;
+    	-webkit-border-bottom-right-radius:0px;
+    	-moz-border-radius-bottomright:0px;
+    	border-bottom-right-radius:0px;
+    	-webkit-border-bottom-left-radius:0px;
+    	-moz-border-radius-bottomleft:0px;
+    	border-bottom-left-radius:0px;
+    	text-indent:0px;
+    	border:1px solid #84bbf3;
+    	display:inline-block;
+    	color:#ffffff;
+    	font-family:Arial Black;
+    	font-size:15px;
+    	font-weight:bold;
+    	font-style:normal;
+    	height:40px;
+    	line-height:51px;
+    	width:180px;
+    	text-decoration:none;
+    	text-align:center;
+    	text-shadow:1px 1px 0px #528ecc;
+    }
+    .addButton:hover {
+    	background:-webkit-gradient( linear, left top, left bottom, color-stop(0.05, #80b5ea), color-stop(1, #bddbfa) );
+    	background:-moz-linear-gradient( center top, #80b5ea 5%, #bddbfa 100% );
+    	filter:progid:DXImageTransform.Microsoft.gradient(startColorstr='#80b5ea', endColorstr='#bddbfa');
+    	background-color:#80b5ea;
+    }.addButton:active {
+    	position:relative;
+    	top:1px;
+    }
+		</style>
+
+    
+		<!--Google Maps API javascript file -->
+		<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCX57rkwt6FZQoau5_N-47luOVYDtHg5A4&sensor=false">
+    </script>
+		
+		<!--Internal Javascript for the map-->
+		<script type="text/javascript">
+      function initialize() {
+        var mapOptions = {
+          center: new google.maps.LatLng(40.500894, -74.447719),
+          zoom: 11,
+          mapTypeId: google.maps.MapTypeId.ROADMAP
+        };
+        var map = new google.maps.Map(document.getElementById("map-canvas"),
+            mapOptions);
+      }
+      google.maps.event.addDomListener(window, 'load', initialize);
+    </script>
+		 		 
+  </head>
+ 
+  <body>
+	
+	<!-- Start Header -->
+	<div id="header_container">
+	  <div id="header">
+        RU Safe
+    </div>
+		  <div>
+					 <a href="#" class="addButton">Report an Incident</a>
+			</div>
+	</div>
+	<!-- End Header -->
+	
+	<!-- Start Map -->
+	<div id="map-canvas"/>
+	<!-- End Map -->
+	
+  </body>
+</html>

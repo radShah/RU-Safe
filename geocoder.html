@@ -1,0 +1,31 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN">
+
+<html>
+<head>
+<script type="text/javascript"
+      src="https://maps.googleapis.com/maps/api/js?key=AIzaSyCX57rkwt6FZQoau5_N-47luOVYDtHg5A4&sensor=false">
+</script>
+<?php  
+			 require_once('db.php'); 
+?>
+<title>Geocoder</title>
+</head>
+<body>
+
+<script type="text/javascript">
+
+var geocoder = new google.maps.Geocoder();
+var address = "new york";
+
+geocoder.geocode( { 'address': address}, function(results, status) {
+
+if (status == google.maps.GeocoderStatus.OK) {
+    var latitude = results[0].geometry.location.lat();
+		var longitude = results[0].geometry.location.lng();
+    alert(latitude);
+    }
+}); 
+</script>
+
+</body>
+</html>

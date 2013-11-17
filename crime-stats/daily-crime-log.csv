@@ -1,0 +1,635 @@
+ID,Incident Type, Date Reported, Time and Date Occurred,Address,latitude,longitude, Disposition
+1,Theft, 1500 09/01/2013, 1500 09/01/2013," 93 Lipman Drive , NJ",40.196492,-74.030440, Open Case
+2,Suspicious Drugs, 1855 09/01/2013, 1855 09/01/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Unfounded
+3,Theft, 1958 09/01/2013 , 0300 08/28/2013," 186 Davidson Road, NJ",40.528240,-74.465099, Open Case
+4,Suspicious Drugs, 2109 09/01/2013, 2109 09/01/2013," 34 Biel Road East, NJ",40.478444,-74.432011, Unfounded
+5,Suspicious Drugs, 2120 09/01/2013, 2120 09/01/2013," 51 Labor Center Way, NJ",40.481442,-74.427251, Unfounded
+6,Suspicious Drugs, 2243 09/01/2013, 2243 09/01/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Unfounded
+7,Suspicious Drugs, 0044 09/02/2013, 0044 09/02/2013," 590 George Street, NJ",40.503713,-74.448559, Unfounded
+8,Sexual Contact/Criminal Mischief/Harassment, 0545 09/02/2013, 0210-0229 09/02/2013," 78 College Ave, NJ",40.500692,-74.449353, Open Case
+9,Criminal Mischief, 0606 09/02/2013, 0140-0440 09/02/2013," 125 College Ave, NJ",40.502633,-74.451276, Open Case
+10,Criminal Mischief, 0859 09/02/2013, 0859 09/02/2013," 619 George Street, NJ",40.502712,-74.446724, Open Case
+11,Suspicious Drugs, 1727 09/02/2013, 1727 09/02/2013," 42 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+12,Burglary/Theft, 1756 09/02/2013, 08/22 - 09/02/2013," 618 Marvin Lane, NJ",40.519860,-74.454844, Open Case
+13,Theft, 2115 09/01/2013, 1100-1400 09/01/2013," 581 Taylor Road, NJ",39.594496,-75.084295, Open Case
+14,Taking Means of Conveyance/ Riding w/o consent, 0159 09/03/2013, 0159 09/03/2013," Metlars Ln and So. Randolphville Rd. , NJ",40.535969,-74.445960, Arrest
+15,Theft, 1643 09/03/2013, 1600-1625 09/03/2013," 100 Somerset Street, NJ",40.496271,-74.445874, Open Case
+16,Harassment, 1818 09/03/2013, 1630 09/03/2013," 90 Davidson Road, NJ",39.731554,-75.309164, Open Case
+17,Suspicious Drugs, 2017 09/03/2013, 2017 09/03/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+18,Suspicious Drugs, 2159 09/03/2013, 2159 09/03/2013," 113 College Ave, NJ",40.502328,-74.450974, Unfounded
+19,Possession CDS/Possession Paraphernalia, 2250 09/03/2013, 2250 09/03/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Arrest
+20,Harassment, 0116 09/04/2013, 0116 09/04/2013," 26 College Ave, NJ",40.498821,-74.447568, Open Case
+21,Simple Assault, 0500 09/04/2013, 0330 09/04/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+22,Criminal Mischief, 1157 09/04/2013, 1830 09/03 - 0840 09/04/2013," 195 College Ave, NJ",40.505905,-74.454606, Open Case
+23,Theft, 1245 09/04/2013, 1200 05/12 - 1200 09/04/2013," 510 George Street, NJ",40.500805,-74.445716, Open Case
+24,Theft, 1509 09/04/2013, 2115-2310 09/02/2013," Dudley and Biel Roads, NJ",40.480063,-74.432236, Open Case
+25,Criminal Mischief, 1553 09/04/2013, 1730 2007 09/03/2013," 97 Avenue E, NJ",40.656963,-74.121212, Open Case
+26,Theft/Criminal Mischief, 1704 09/04/2013, 0840-1700 09/04/2013," 125 Patterson Street, NJ",41.006030,-74.043710, Open Case
+27,Aggravated Assault, 1957 09/04/2013, 1957 09/04/2013," 86 Davidson Road, NJ",40.526792,-74.461968, Unfounded
+28,Arrest on Warrant, 2207 09/04/2013, 2034 09/04/2013," 23 Avenue E, NJ",40.654783,-74.124154, Arrest
+29,Suspicious Drugs, 0107 09/05/2013, 0107 09/05/2013," 173 Ryders lane, NJ",40.460438,-74.425476, Unfounded
+30,Theft, 0943 09/05/2013, 1900-2300 09/03/2013," 41 Brett Road, NJ",40.520619,-74.452713, Open Case
+31,Theft, 1257 09/05/2013, 2230 09/04 - 0900 09/05/2013," 122 College Ave, NJ",40.502540,-74.451270, Open Case
+32,Theft, 1046 09/05/2013, 1046 09/05/2013," 85 George Street, NJ",40.486167,-74.433759, Open Case
+33,Harassment(DV), 1224 09/05/2013, 0200 09/05/2013," 28 Gibbons Circle, NJ",40.752967,-74.434740, Open Case
+34, Theft, 1154 09/05/2013, 1700 05/31 - 1100 08/22/2013," Hospital Road, NJ",39.425620,-75.336884, Open Case
+35,Theft, 1421 09/05/2013, 1200 09/03 - 1700 09/04/2013," 400 Ryders Lane, NJ",40.441821,-74.425825, Open Case
+36,Theft, 0332 09/06/2013, 1900-2000 09/06/2013," 125 College Ave, NJ",40.502633,-74.451276, Open Case
+37,Suspicious Drugs, 2326 09/05/2013, 2326 09/05/2013," 39 Biel Road West, NJ",40.478942,-74.432261, Unfounded
+38,Criminal Mischief, 0519 09/06/2013, 2325 09/05/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+39,Theft, 0121 09/06/2013, 0000-0100 09/06/2013," 104 Easton Ave, NJ",40.498809,-74.451653, Open Case
+40,Theft, 0408 09/06/2013, 0408 09/06/2013," 11 Union Street, NJ",40.711369,-74.070854, Arrest
+41,Criminal Mischief, 0513 09/06/2013, 1330 09/05 - 0510 -9/06/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+42,Criminal Mischief, 0944 09/06/2013, 0944 09/06/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+43,Criminal Mischief, 1425 09/06/2013, 1415 09/06/2013," 106 Nichol Ave, NJ",40.481577,-74.440811, Open Case
+44,Theft, 1859 09/06/2013, 1859 09/06/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Open Case
+45,Theft, 2015 09/06/2013, 2345 09/05 - 0700 09/06/2013," 125 College Ave, NJ",40.502633,-74.451276, Open Case
+46,Criminal Mischief/Disorderly Conduct, 2136 09/06/2013, 2136 09/06/2013," 33 Commercial Ave, NJ",40.488267,-74.438912, Open Case
+47,Criminal Mischief, 2309 09/06/2013, 2155 09/06/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Open Case
+48,Suspicious Drugs, 2214 09/06/2013, 2214 09/06/2013," 36 Jones Ave, NJ",40.484718,-74.440108, Unfounded
+49,Possession CDS/Possession Paraphernalia, 0354 09/07/2013, 2321 09/06/2013," 619 George Street, NJ",40.502712,-74.446724, Arrest
+50,Suspicious Drugs, 2344 09/06/2013, 2344 09/06/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+51,Suspicious Drugs, 0249 09/07/2013, 0249 09/07/2013," 45 Biel Road E, NJ",40.478364,-74.431345, Unfounded
+52,Harassment, 0311 09/07/2013, 0311 09/07/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Open Case
+53,Criminal Mischief, 1040 09/07/2013, 09/06 - 09/07/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+54,Underage Possession of Alcohol,9/7/2013,9/7/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Ordinances Issued
+55,Theft, 1000 09/07/2013, 1200 09/07/2013," 44 College Ave, NJ",40.500638,-74.449298, Open Case
+56,Suspicious Drugs, 1324 09/07/2013, 1324 09/07/2013," 39 Biel Road West, NJ",40.478942,-74.432261, Unfounded
+57,Suspicious Drugs, 1727 09/07/2013, 1727 09/07/2013," 15 Suydam Street, NJ",40.484025,-74.439244, Unfounded
+58,Criminal Mischief Attempt to Cause Bodily Injury, 0353 09/08/2013, 1400 09/07/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Open Case
+59,Criminal Trespass/Disorderly Conduct, 0527 09/08/2013, 2350 09/07/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+60,Suspicious Drugs, 0018 09/08/2013, 0018 09/08/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+61,Robbery, 0118 09/08/2013, 0118 09/08/2013," Easton and Prosper, NJ",40.499392,-74.452864, TOTNBPD
+62,Simple Assault, 0446 09/08/2013, 0210 09/08/2013," Sicard and Senior Sts., NJ",40.503022,-74.454361, Open Case
+63,Harassment, 0625 09/08/2013, 0250 09/08/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+64,Harassment, 1532 09/08/2013, 0930 09/05 - 1330 09/08/2013," 671 Hoes Lane West, NJ",40.525149,-74.470615, Open Case
+65,Burglary, 1415 09/08/2013, 1415 09/08/2013," 80 Nichol Ave, NJ",40.482398,-74.439666, Open Case
+66,Theft, 1734 09/08/2013, 08/25-09/08/2013," 93 College Ave, NJ",40.501013,-74.449628, Open Case
+67,Theft, 2140 09/08/2013, 1846 - 1906 09/08/2013," 71 Hamilton Street, NJ",40.499668,-74.445743, Closed Case
+68,Theft, 2159 09/08/2013, 1745 - 2100 09/08/2013," 656 Bartholomew Road, NJ",40.519529,-74.460885, Open Case
+69,Suspicious Drugs, 0014 09/09/2013, 0014 09/09/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Unfounded
+70,Forgery, 1550 09/09/2013, 0900 09/09/2013," 100 College Ave, NJ",40.501759,-74.450827, Open Case
+71,Suspicious Drugs, 2359 09/09/2013, 2359 09/09/2013," 23 Avenue E, NJ",40.654783,-74.124154, Unfounded
+72,Harassment, 1848 09/09/2013, 2230 09/07 - 1030 09/08/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Open Case
+73,Criminal Trespass, 2304 09/09/2013, 1250 - 1510 09/09/2013," 159 Davidson Road, NJ",40.524989,-74.455693, Open Case
+74,Theft, 0450 09/10/2013, 0800-1830 09/09/2013," 159 Davidson Road, NJ",40.524989,-74.455693, Open Case
+75,Theft/Harassment, 0904 09/09/2013, 0920 -1944 09/09/2014," 671 Hoes Lane West, NJ",40.525149,-74.470615, Open Case
+76,Burglary/Theft, 0550 09/09/2013, 2000 08/29 - 1400 08/30/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+77,Suspicious Drugs, 2359 09/09/2013, 2359 09/09/2013," 23 Avenue E, NJ",40.654783,-74.124154, Unfounded
+78,Harassment (DV), 1457 09/10/2013, 0800 08/01 - 1430 09/10/2013," 99 Davidson Road, NJ",40.524863,-74.458820, Open Case
+79,Harassment, 1819 09/10/2013, 1819 09/10/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+80,Theft, 0530 09/11/2013, 1500 09/10 - 0006 09/11/2013," 43 Bevier Road, NJ",40.522213,-74.455920, Open Case
+81,Defiant Trespass/Criminal Mischief , 1041 09/11/2013, 1830 09/10 - 0845 09/11/2013," 18 Seminary Place, NJ",41.070772,-74.185421, Arrest
+82,Theft, 1226 09/11/2013, 1030-1040 09/11/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Unfounded
+83,Theft, 1300 09/11/2013, 1210 09/11/2013," 100 Somerset Street, NJ",40.496271,-74.445874, Open Case
+84,Theft, 1603 09/11/2013, 1100-1115 09/11/2013," 3 Rutgers Plaza, NJ",40.477712,-74.425652, Open Case
+85,Theft, 1724 09/10/2013, 1700 08/21 - 1000 09/19/2013," 125 Patterson Street, NJ",41.006030,-74.043710, Open Case
+86,Theft, 2026 09/112013, 1630-1700 09/11/2013," 618 Allison Road, NJ",40.077299,-74.840921, Open Case
+87,Suspicious Drugs, 1919 09/11/2013, 1919 09/11/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Unfounded
+88,Theft, 2230 09/11/2013, 1930 09/09 - 0800 09/20/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+89,Theft, 2030 09/11/2013, 0330 - 1000 09/10/2013," 23 Avenue E, NJ",40.654783,-74.124154, Open Case
+90,Harassment, 0103 09/12/2013, 2300-2324 09/11/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Open Case
+91,Harassment, 2323 09/11/2013, 2323 09/08/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Open Case
+92,Burglary/Theft/Arrest on Warrant, 0300 09/12/2013, 0147 09/12/2013," 19 Union Street, NJ",40.711420,-74.071348, Arrest
+93,Theft/Burglary, 0234 09/12/2013, 1400 09/11 - 0200 09/12/2013," 111 Davidson Road, NJ",40.525003,-74.455373, Open Case
+94,DWI, 0558 09/12/2013, 0236 09/12/2013," Easton Ave and Park Blvd., NJ",40.502165,-74.459955, Arrest
+95,Burglary/Theft, 1046 09/12/2013, 2310 09/11 - 0840 09/12/2013," 28 Easton Ave, NJ",40.496617,-74.446624, Open Case
+96,Theft, 1438 09/12/2013, 1329-1339 09/12/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+97,Theft, 0830 09/12/2013, 0830-1400 09/12/2013," 180 Jones Ave, NJ",40.480319,-74.444712, Open Case
+98,Theft, 1604 09/12/2013, 1604 09/12/2013," 604 Bartholomew Road , NJ",40.523408,-74.458721, Open Case
+99,Theft, 1941 09/12/2013, 1500-1800 09/11/2013," 125 George Street, NJ",40.448010,-74.386313, Open Case
+100,Suspicious Drugs, 0021 09/13/2013, 0021 09/132013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Unfounded
+101,Arrest on Warrant, 0325 09/13/2013, 0325 09/13/2013," George & Huntington Sts., NJ",40.505885,-74.452575, Arrest
+102,Criminal Mischief, 0424 09/13/2013, 0100-0352 09/13/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+103,Theft, 1642 09/13/2013, 1855-2013 09/12/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+104,Theft, 1823 09/13/2013, 1500-1750 09/13/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+105,Suspicious Drugs, 2307 09/13/2013, 2307 09/13/2013," 39 Biel Road West, NJ",40.478942,-74.432261, Unfounded
+106,DWI, 0044 09/14/2013, 0000 09/14/2013," Sicard and Senior Sts., NJ",40.503022,-74.454361, Arrest
+107,Theft, 0445 09/14/2013, 1600 09/13 - 0100 09/14/2013," 76 Lipman Drive, NJ",40.197368,-74.030178, Open Case
+108,Simple Assault, 0130 09/14/2013, 0130 09/14/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+109,Harassment, 0601 09/14/2013, 0601 09/14/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Open Case
+110,Disordererly Conduct, 1237 09/14/2013, 1237 09/14/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+111,Suspicious Drugs, 1245 09/14/2013, 1245 09/14/2013," 36 Biel Road West, NJ",40.478430,-74.431984, Unfounded
+112,Theft, 1419 09/14/2013, 1900 09/13/2013," 41 Biel Road West, NJ",40.478426,-74.432038, Open Case
+113,Simple Assault, 1516 09/14/2013, 1423 09/14/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+114,Theft, 1635 09/14/2013, 0800 - 1445 09/14/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+115,Theft, 0150 09/14/2013, 0150 09/14/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+116,DWI, 0215 09/14/2013, 0215 09/15/2013," Prosper and Easton, NJ",40.499392,-74.452864, Arrest
+117,Criminal Mischief, 0822 09/16/2013, 09/15 - 09/16/2013," 4 Huntington Street, NJ",40.505313,-74.453198, Open Case
+118,Theft, 1040 09/16/2013, 1300-1830 09/13/2013," 1 Robert Wood Johnson Place, NJ",40.495889,-74.448560, Open Case
+119,Suspicious Drugs, 1000 09/16/2013, 1000 09/16/2013," 33 Dudley Road, NJ",40.481377,-74.430420, Unfounded
+120,Suspicious Drugs, 1758 09/16/2013, 1758 09/16/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Open Case
+121,Theft, 1852 09/16/2013, 1500 09/13 - 1000 09/16/2013," 33 Dudley Road, NJ",40.481377,-74.430420, Open Case
+122,Theft, 2122 09/16/2013, 1940-2100 09/16/2013," 617 George Street, NJ",40.502700,-74.446712, Open Case
+123,Simple Assault (DV), 2315 09/16/2013, 2300 09/06/2013," 33 Dudley Road, NJ",40.481377,-74.430420, Open Case
+124,Criminal Mischief, 0523 09/16/2013, 0523 09162013," 43 Dudley Road, NJ",40.480139,-74.432087, Open Case
+125,Criminal Trespass, 0207 09/16/2013, 0040 09/17/2013," 71 Hamilton Street, NJ",40.499668,-74.445743, Open Case
+126,Burglary, 0511 09/16/2013, 0425 09/17/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Open Case
+127,Burglary/Theft, 0848 09/17/2013, 0703 09/17/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Arrest
+128,Theft, 1344 09/17/2013, 2100 09/16 - 0850 09/17/2013," 113 College Ave, NJ",40.502328,-74.450974, Open Case
+129,Criminal Mischief, 1410 09/16/2013, 1200-1910-09/16/2013," 70 Lipman Drive, NJ",40.197341,-74.030203, Open Case
+130,Theft, 1743 09/16/2013, 1500-1515 09/17/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Open Case
+131,Harassment, 1557 09/17/2013, 1557 09/17/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Closed Case
+132,Theft, 2043 09/17/2013, 1530-1930 09/12/2013," 510 George Street, NJ",40.500805,-74.445716, Open Case
+133,Criminal Mischief, 1814 09/17/2013, 0900-2030 09/16/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+134,Trespass, 1802 09/17/2013, 1802 09/17/2013," 93 Lipman Drive, NJ",40.196492,-74.030440, Open Case
+135,Theft, 0015 09182013, 1100 09/16 - 1900 09/17/2013," 115 College Ave, NJ",40.502359,-74.451005, Open Case
+136,Criminal Mischief/Theft, 0041 09/18/2013, 1800-2000 09/17/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+137,Harassment, 2249 09/17/2013, 2249 09/17/2013," 76 JeffersonAve, NJ",40.937284,-73.969676, Open Case
+138,Suspicious Drugs, 2314 09/17/2013, 2314 09/17/2013," 15 Suydam Street, NJ",40.484025,-74.439244, Unfounded
+139,Burglary/Theft, 0433 09/18/2013, 0433 09/18/2013," 111 Davidson Road, NJ",40.525003,-74.455373, Open Case
+140,Suspicious Drugs, 1116 09/18/2013, 1058 09/18/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Unfounded
+141,Theft, 1130 09/18/2013, 1130 09/18/2013," 128 College Ave, NJ",40.502808,-74.451497, Open Case
+142,Theft, 0245 09/19/2013, 1200-1700 09/05/2013," 620 George Street, NJ",40.505028,-74.451048, Open Case
+143,Theft, 0316 09/19/2013, 1910-2010 09/18/2013," 4 Chapel Drive, NJ",40.535930,-74.579920, Open Case
+144,Theft, 2201 09/18/2013, 2050-2150 09/18/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+145,Suspicious Drugs, 0034 09/19/2013, 0034 09/19/2013," 111 Davidson Road, NJ",40.525003,-74.455373, Unfounded
+146,Simple Assault, 0157 09/19/2013 , 0124 09/19/2013 ," Easton and Condict, NJ",40.497915,-74.449084, Open Case
+147,Theft, 1435 09/19/2013, 1535 - 1905 09/16/2013," 85 George Street, NJ",40.486167,-74.433759, Open Case
+148,Burglary, 1403 09/19/2013, 0000-1250 09/19/2013," 33 Dudley Road, NJ",40.481377,-74.430420, Open Case
+149,Underage Possession of Alcohol,9/14/2013,9/14/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Ordinances Issued
+150,Harassment, 1844 09/19/2013, 0115 09/18/2013," 103 Davidson Road, NJ",40.525535,-74.458938, Closed Case
+151,Theft, 2001 09/19/2013, 1930 09/19/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+152,Arrest on Warrant, 2248 09/19/2013, 2149 09/19/2013," Sicard and Stone Sts., NJ",40.500773,-74.452057, Arrest
+153,Theft, 0333 09/20/2013, 1300-2000 09/20/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+154,Suspicious Drugs, 0052 09/20/2013, 0052 09/20/2013," 590 George Street, NJ",40.503713,-74.448559, Unfounded
+155,Criminal Mischief, 0356 09/20/2013, 0252 09/20/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+156,Arrest on Warrant/tTrespass, 1110 09/20/2013, 0750-1045 09/20/2013," 33 Davidson Road, NJ",40.525085,-74.454877, Arrest
+157,Underage Possession of Alcohol, 1454 09/20/2014, 1035 09/20/2013," 73 Dudley Road, NJ",40.479061,-74.437270, Arrest
+158,Harassment, 1334 09/20/2013, 1300-1500 009/20/2013," 675 Hoes Lane W, NJ",40.525052,-74.470199, Open Case
+159,Suspicious Drugs, 1454 09/20/2013, 1454 09/20/2013," 73 Lipman Drive, NJ",40.196963,-74.030577, Unfounded
+160,Theft, 1513 09/20/2013, 1145-1400 09/20/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+161,Theft, 2045 09/20/2013, 0100-0101 09/20/2013," Mine Street, NJ",40.506578,-74.864966, Open Case
+162,Theft, 2127 09/20/2013, 1930-2045 09/20/2013," 656 Bartholomew Road, NJ",40.519529,-74.460885, Open Case
+163,Possession of CDS, 2317 09/20/2013, 0000 09/20/2013," Wyckoff and Huntington, NJ",40.977254,-74.157123, Arrest
+164,Suspicious Drugs, 2257 09/20/2013, 2257 9/20/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Open Case
+165,Criminal Mischief, 1235 09/21/2013, 1634 09/20/2013," Douglas Campus, NJ",40.478671,-74.431789, Open Case
+166,Theft, 1010 09/21/2013, 1010 09/21/2013," 23 Bishop Place, NJ",40.501884,-74.450200, Open Case
+167,Underage Possession of Alcohol,9/21/2013,9/21/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Ordinances Issued
+168,Suspicious Drugs, 1330 09/20/2013, 1330 09/20/2013," 39 Biel Road West, NJ",40.478942,-74.432261, Closed Case
+169,Simple Assault, 2242 09/21/2013, 1533 09/21/2013," Sutphen Road, NJ",40.514854,-74.464862, Closed Case
+170,Simple Assault, 1609 09/21/2013, 1609 09/21/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+171,Obstruction/Resisting/Under/Age Alcohol, 1621 09/21/2013, 1621 09212013," Fitch Road, NJ",39.077116,-74.817915, Arrest
+172,Theft, 1701 09/21/2013, 1900-2000 09/20/2013," 50 Biel Road, NJ",40.478553,-74.432276, Open Case
+173,Simple Assault, 1743 09/21/2013, 1700 09/21/2013," River Road, NJ",40.817115,-73.980687, Open Case
+174,Aggravated Assault, 1739 09/21/2013, 1730 09/21/2013," Fitch Road, NJ",39.077116,-74.817915, Arrest
+175,Theft, 1857 09/21/2013, 1840 09/21/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+176,Criminal Mischief, 2024 09/21/2013, 2000-2020 09/21/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+177,Suspicious Drugs, 2203 09/21/2013, 2203 09/21/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Unfounded
+178,Criminal Mischief, 2230 09/21/2013, 2230 09/21/2013," 617 George Street, NJ",40.502700,-74.446712, Open Case
+179,Suspicious Drugs, 2355 09/21/2013, 2355 09/21/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Unfounded
+180,Suspicious Drugs, 0152 09/21/2013, 0152 09/21/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+181,Criminal Mischief, 1016 09/22/2013, 1016 09/22/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Open Case
+182,Theft, 1605 09/21/2013, 1605 09/21/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+183,Criminal Mischief, 0945 09/23/2013, 2330 09/23/2013," 611 George Street, NJ",40.503592,-74.448256, Open Case
+184,Poss CDS/ Poss Paraph, 0928 09/23/2013, 0902 09/23/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+185,Theft, 1316 09/23/2013, 1316 09/23/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Unfounded
+186,Criminal Mischief, 0027 09/24/2013, 1700 09/19 - 1000 09/20/2013," 151 Centennial Ave, NJ",40.541833,-74.499135, Open Case
+187,Theft, 2010 09/23/2013, 2010 09/23/2013," 75 Hamilton Street, NJ",40.499493,-74.446921, Open Case
+188,Harassment (DV), 2222 09/23/2013, 1430 09/10 - 1843 09/23/2013," 99 Davidson Road, NJ",40.524863,-74.458820, Open Case
+189,Theft, 2010 09/23/2013, 0000 - 0300 08/28/2013," 186 Davidson Road, NJ",40.528240,-74.465099, Open Case
+190,Theft, 2150 09/23/2013, 2150 09/23/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+191,Harassment, 2338 09/23/2013, 2145 09/23/2013," 125 College Ave, NJ",40.502633,-74.451276, Closed Case
+192,Suspicious Drugs, 0021 09/24/2013, 0021 09/24/2013," 48 Biel Road W, NJ",40.478545,-74.429792, Unfounded
+193,Poss CDS/ Poss Paraph/Obstruction, 0444 09/24/2013, 0115 09242013," 47 Avenue E, NJ",40.655430,-74.122520, Arrest
+194,Theft, 1530 9/24/2013, 1500-1525 09/24/2013," 7 Chapel Drive, NJ",40.536088,-74.579712, Unfounded
+195,Theft, 1612 09/24/2013, 1350-1450 09/24/2013," 33 Livingston Ave, NJ",40.492800,-74.444958, Open Case
+196,Theft, 1702 09/24/2013,9/24/2013," 84 Joyce Kilmer Ave, NJ",40.523391,-74.437402, Open Case
+197,Theft, 1850 09/24/2013, 2000 09/21 - 1515 09/24/2013," 28 Easton Ave, NJ",40.496617,-74.446624, Open Case
+198,Theft, 1918 09/24/2013, 1918 09/24/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+199,Criminal Mischief/Theft, 2208 09/24/2013, 2110 09/24/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Open Case
+200,Theft, 0117 09/25/2013, 2245 09/24 - 0000 09/25//2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+201,Theft, 0136 09/25/2013, 0026 09/25/2013," 619 George Street, NJ",40.502712,-74.446724, Arrest
+202,Possession CDS, 1111 09/25/2013, 0900-1100 09/24/2013," 65 Avenue E, NJ",40.655812,-74.121906, Open Case
+203,Theft, 1154 09/25/2013, 1154 09/25/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Arrest
+204,Possession CDS/Arrest on Warrants, 1446 09/24/2013, 1200 09/11 - 0900 09/25/2013," 65 Dudley Road, NJ",40.479616,-74.434006, Open Case
+205,Burglary/Theft, 1857 09/25/2013, 1857 09/25/2013," 610 Taylor Road, NJ",40.525499,-74.460992, Open Case
+206,Theft, 2348 09252013, 1730 09/24/2013," 125 College Ave, NJ",40.502633,-74.451276, Open Case
+207,Theft, 2227 09/25/2013, 227 09/25/2013," 177 Ryders Lane, NJ",40.460370,-74.425468, Open Case
+208,Theft, 2231 09/25/2013, 2231 09/25/2013," 36 Jones Ave, NJ",40.484718,-74.440108, Unfounded
+209,Suspicious Drugs, 0111 09/26/2013, 2300 09/25 - 0000 09/26/2013," 100 Davidson Road, NJ",40.526901,-74.462342, Open Case
+210,Theft, 1021 09/26/2013, 1021 09/26/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+211,Theft, 1030 09/26/2013, 09/24 - 09'15/2013," 191 Ryders Lane, NJ",40.481737,-74.433215, Open Case
+212,Theft, 1239 09/26/2013, 09/25/- 09/26/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+213,Theft, 1350 09/26/2013, 1350  09/26/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Open Case
+214,False Public Alarm, 2305 09/26/2013, 1930 23/50," 290 George Street, NJ",40.491800,-74.443010, Open Case
+215,Simple Asault, 2106 09/26/2013, 2030-2100 09/26/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+216,Burglary, 2321 09/27/2013, 1630-1730 09/25/2013," 85 Rockafeller Road, NJ",40.525539,-74.438223, Open Case
+217,Harassment, 0152 09/27/2013, 0152 09/27/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Unfounded
+218,Suspicious Drugs, 1020 09/27/2013, 1315 09/16 - 0430 09/17/2013," 510 George Street, NJ",40.500805,-74.445716, Open Case
+219,Criminal Mischief/Theft, 2014 09/27/2013, 2014 09/27/2013," 510 George Street, NJ",40.500805,-74.445716, Unfounded
+220,Suspicious Drugs, 1253 09/27/2013, 1130 09/23 - 0500 09/24/2013," 100 College Ave, NJ",40.501759,-74.450827, Open Case
+221,Theft, 1339 09/27/2013, 1900 09/19 - 1200 09/27/2013," 606 Marvin Lane, NJ",40.519879,-74.454819, Open Case
+222,Theft, 1443 09/27/2013, 1530 27/59," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Closed Case
+223,Simple Assault, 1650 09/27/2013, 1310-1435 0927/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+224,Theft, 1634 09/27/2013, 1606 09/27/2013," 49 Dudley Road, NJ",40.480075,-74.432244, Open Case
+225,False Public Alarm, 1908 09/27/2013, 1615-1745 09/27/2013," Ecological Preserve Trail, NJ",40.058324,-74.405661, Open Case
+226,Theft, 2018 09/27/2013, 1200-1850 09/27/2013," 165 Bevier Road, NJ",40.526992,-74.466730, Open Case
+227,Criminal Mischief, 2147 09/27/2013, 0115 09/20/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+228,Sexual Assault, 2335 09/27/2013, 2230 09/27/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+229,Simple Assault, 2248 09/27/2013, 2248 09/27/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Unfounded
+230,Suspicious Drugs, 0022 09/28/2013, 1430-2245 09/27/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+231,Theft, 0004 09/28/2013, 0004 09/28/2013," 117 College Ave, NJ",40.502390,-74.451035, Unfounded
+232,Suspicious Drugs, 0024 09/28/2013, 0024 09/28/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Unfounded
+233,Suspicious Drugs, 0050 09/28/2013, 0050 09/28/2013," Sicard and Morrell, NJ",40.501911,-74.453200, Arrest
+234,Arrest on Warrant, 1121 09/28/2013, 1530 09/25 - 1100 09/28/2013," 110 Paterson Street, NJ",40.494467,-74.448534, Open Case
+235,Theft, 1324 09/28/2013, Unknown," 64 College Ave, NJ",40.500670,-74.449330, Open Case
+236,Burglary/Criminal Mischief, 1435 09/28/2013, 1435 09/28/2013," 100 Somerset Street, NJ",40.496271,-74.445874, Arrest
+237,Arrest on Warrant/Theft, 1806 09/28/2013, 1456 09/28/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+238,False Public Alarm, 1746 09/28/2013, 1746 09/28/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+239,Theft, 1811 09/28/2013, 1811 09/28/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+240,Theft, 1902 09/28/2013, 1902 09/28/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+241,Theft, 1944 09/28/2013, 0400 09/27/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Open Case
+242,Harassment, 1401 09/29/2013, 2000-2035 09/28/2013," 615 George Street, NJ",40.502688,-74.446701, Open Case
+243,Criminal Mischief, 2207 09/28/2013, 2207 09/28/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Unfounded
+244,Suspicious Drugs, 2357 09/28/2013, 2357 09/28/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Unfounded
+245,Suspicious Drugs, 0218 09/29/2013, 0000 09/29/2013," Lafayette and Sicard, NJ",40.504712,-74.456036, Arrest
+246,DWI, 0831 09/29/2013, 0553 09/29/2013," College and Lafayette, NJ",40.504902,-74.455085, Arrest
+247,DWI`, 1329 09/29/2013, 1040-1340 09292013," 151 Albany Street, NJ",40.496477,-74.445479, TOTNBPD
+248,Theft, 1659 09/29/2013, 1659 09/29/2013," 39 Biel Road East, NJ",40.478942,-74.432261, Unfounded
+249,Suspicious Drugs, 1855 09/29/2013, 1000-1224 09/29/2013," 59 Biel Road, NJ",40.478717,-74.431375, Open Case
+250,Theft, 1752 09/29/2013, 1400-1718 09/29/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+251,Theft/Criminal Mischief, 1848 09/29/2013, 1755 -1810 09/29/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+252,Theft, 2008 09/28/2013, 1936 09/29/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+253,Theft, 2302 09/30/2013, 2100-2115 09/29/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+254,Theft, 2349 09/29/2013,9/27/2013," 23 Bishop Place, NJ",40.501884,-74.450200, Open Case
+255,Sexual Assault, 0000 09/30/2013, 0000 09/30/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Closed Case
+256,Suspicious Drugs, 0103 09/30/2013, 0103 09/30/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Unfounded
+257,Suspicious Drugs, 0715 09/30/ 2013, 2200 09/28 - 0800 09/29/2013," 671 Hoes Lane West, NJ",40.525149,-74.470615, Open Case
+258,Theft, 1530 09/30/2013, 1100-1200 09/27/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+259,Theft, 1651 09/30/3013, 2200 08/31 - 1340 09/30/2013," 220 Marvin Lane, NJ",39.711291,-75.217182, Open Case
+260,Theft, 1745 09/30/2013, 1230-1745 09/30/2013," 33 Livingston Ave, NJ",40.492800,-74.444958, Open Case
+261, Theft, 2319 09/30/2013, 1900-1930 09/28/2013," 160 Frelinghuysen, NJ",40.822322,-74.500433, Open Case
+262,Harassment, 2326 09/30/2013, 2045-2240 09/30/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+263,Suspicious Drugs, 0009 10/01/2013, 0009 10/01/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Unfounded
+264,Theft, 1025 10/01/2013, 1700 09/30 - 1030 10/01/2013," 620 George Street, NJ",40.505028,-74.451048, Open Case
+265,Theft, 1644 10/01/2013, 2000 09/24 - 1644 10/01/2013," 38 Biel Road West, NJ",40.478377,-74.431513, Open Case
+266,Theft, 1745 10/01/2013, 1200-1700 10/01/2013," 71 Hamilton Street, NJ",40.499668,-74.445743, Open Case
+267,Harassment, 2201 10/01/2013, 0300 10/01/2013," 611 George Street, NJ",40.503592,-74.448256, Open Case
+268,Possesion of CDS/Arrest on Warrant/Hindering Apprehension, 0052 10/02/2013, 1909 10/01/2013," 31 Riverside Drive, NJ",39.943582,-75.130238, Arrest
+269,Lewdness/Defiant Trespass, 2000 10/01/2013, 1917 10/01/2013," Road 1 & Road 3, NJ",40.515386,-74.434303, Arrest
+270,Suspicious Drugs, 1933 10/01/2013, 1933 10/01/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Unfounded
+271,Suspicious Drugs, 2236 10/01/2013, 2236 10/1/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Unfounded
+272,Simple Assault (DV), 0420 10/02/2013, 00000 10/02/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Arrest
+273,Theft, 1322 10/02/2013, 0955-1200 10/02/2013," 85 George Street, NJ",40.486167,-74.433759, Open Case
+274,Theft, 1346 10/02/2013, 1730-1855 10/01/2013," 72 Lipman Drive, NJ",40.197349,-74.030196, Open Case
+275,Theft, 1430 10/02/2013, 1800 10/01 - 0700 10/02/2013," 103 Davidson Road, NJ",40.525535,-74.458938, Open Case
+276,Defiant Trespass, 1605 10/02/2013, 1530-1605 10/02/2013," 66 Joyce Kilmer Ave, NJ",40.523732,-74.435132, Open Case
+277,Theft, 1920 10/02/2013, 930 09/24 - 1330 10/02/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+278,Theft, 2140 10/02/2013, 1330-1340 10/02/2013," 183 Bevier Road, NJ",40.526157,-74.465883, Open Case
+279,Theft, 2023 10/02/2013, 1630-1930 10/02/2013," 510 George Street, NJ",40.500805,-74.445716, Open Case
+280,Harassment, 0041 10/03/2013, 2355 10/02 - 0038 10/03/2013," 49 Biel Road West, NJ",40.478495,-74.430041, Open Case
+281,Arrest on Warrant, 0018 10/03/2013, 0218 10/03/2013," 169 College Ave, NJ",40.504402,-74.453090, Arrest
+282,Theft, 1510 10/03/2013, 0100 09/28/2013," 66 College Ave, NJ",40.500191,-74.449212, Open Case
+283,Possession of CDS, 2058 10/03/2013, 2011 10/03/2013," 619 George Street, NJ",40.502712,-74.446724, Arrest
+284,Suspicious Drugs, 0029 10/04/2013, 0029 10/04/2013," 618 Marvin Lane, NJ",40.519860,-74.454844, Unfounded
+285,DWI, 0157 10/04/2013, 0045 - 0102 10/04/2013," 95 College Ave, NJ",40.501067,-74.449682, Arrest
+286,DWI, 0226 10/04/2013, 0128 10'/04/2013," Easton Ave and Landing Lane, NJ",40.505378,-74.468213, Arrest
+287,Theft, 0441 10/04/2013, 0335 10'/04/2013," 8 Chapel Drive, NJ",40.536134,-74.579574, Open Case
+288,Fraudulent Checks, 0905 10/04/2013, 0630 10/03 - 0830 10/04/2013," 65 Davidson Road, NJ",40.523521,-74.455629, Open Case
+289,Sexual Assault, 1259 10/04/2013, 2100 09/27 - 0030 09/28/2013," Unknown, NJ",40.058324,-74.405661, Open Case
+290,Theft, 1400 10/04/2013, 1240-1250 10/04/2013," 617 George Street, NJ",40.502700,-74.446712, Open Case
+291,Theft, 1700 10/04/2013, 2230 10/01 - 1320 10/02/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Open Case
+292,Theft, 1716 10/04/2013, 1500-1505 10/04/2013," 84 Joyce Kilmer Ave, NJ",40.523391,-74.437402, Open Case
+293,Theft, 1624 10/04/2013, 0915-1550 10/04/2013," 170 Frelinghuysen Road, NJ",40.522847,-74.466639, Open Case
+294,Sexual Assault, 1635 10/04/2013,9/27/2013," Joyce Kilmer Ave, NJ",40.495377,-74.448169, Open Case
+295,Theft, 0554 10/05/2013, 2145 10/05/2013," 617 George Street, NJ",40.502700,-74.446712, Open Case
+296,Theft, 0507 10/05/2013, 2145-2305 10/05/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+297,Simple Assault, 0431 10/05/2013, 0115 10/05/2013," 46 College Ave, NJ",40.499494,-74.448135, Open Case
+298,Theft, 0250 10/05/2013, 0200-0220 10/05/2013," Somerset and George, NJ",40.386410,-74.669044, Open Case
+299,Simple Assault, 0518 10.05.2013, 0528 10/05/2013," 85 Senior Street, NJ",40.501789,-74.456462, Open Case
+300,DWI, 0514 10/05/2013, 0348 10/05/2013," Commercial and Suydam, NJ",40.485517,-74.441728, Arrest
+301,Burglary/Theft, 1249 10/05/2013, 2000 09/19 - 1155 10/05/2013," 625 George Street, NJ",40.502747,-74.446761, Open Case
+302,Theft, 1732 10/05/2013, 1400-1710 10/05/2013," 617 George Street, NJ",40.502700,-74.446712, Open Case
+303,Defiant Trespass/Theft/ Poss Burglary Tools/ Poss Hypo/ Arrest on Warrant, 1931 10?05/2013, 1912 10/05/2013," 130 College Ave, NJ",40.502996,-74.453406, Arrest
+304,Burglary/Theft, 2115 10/05/2013, 0830-2120 10/05/2013," 28 Easton Ave, NJ",40.496617,-74.446624, Open Case
+305,Criminal Mischief`,10/5/2013, 2122 10/05/2013," 117 College Ave, NJ",40.502390,-74.451035, Open Case
+306,DWI, 2349 10/05/2013, 2227 10/05/2013," 33 Commercial Ave, NJ",40.488267,-74.438912, Arrest
+307,DWI, 0157 10/06/2013, 0048 10/06/2013," Rt 18 N and Metlars Lane, NJ",40.524448,-74.450837, Arrest
+308,Criminal Mischief`, 0526 10/06/2013, 0309 10/06/2013," 125 College Ave, NJ",40.502633,-74.451276, Open Case
+309,Suspicious Drugs, 2053 10/06/2013, 2053 10/06/2013," 95 Joyce Kilmer Ave, NJ",40.489805,-74.450774, Unfounded
+310,Theft, 2115 10/06/2013, 2000-2045 10/06/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+311,Theft, 2129 10/06/2013, 2129 10/06/2013," 62 Road 3, NJ",40.521241,-74.431272, Open Case
+312,Criminal Mischief`, 1536 10/07/2013, 0130 10/07/2013," 175 Bevier Road, NJ",40.525053,-74.462764, Open Case
+313,Theft, 1133 10/07/2013, 1200 10/04 - 1500 10/06/2013," 128 College Ave, NJ",40.502808,-74.451497, Open Case
+314,Possessin of CDS, 1100 10/07/2013, 1100 10/07/2013," 38 Biel Road West, NJ",40.478377,-74.431513, Arrest
+315,Theft, 1400 10/07/2013, 0904 - 1730 10/07/2013," 671 Hoes Lane West, NJ",40.525149,-74.470615, Open Case
+316,Theft, 1434 10/07/2013, 1200 10/07/2013," 618 Allison Road, NJ",40.077299,-74.840921, Open Case
+317,Theft, 1957 10/07/2013, 1200 10/05 1800 10/06/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Unfounded
+318,Theft, 0523 10/08/2013, 2000-2158 10/07/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+319,Arrest on Warrant, 0211 10/08/2013, 0047 10/08/2013," Bartlett and Wyckoff, NJ",40.500395,-74.454197, Arrest
+320,Theft, 1127 10/08/2013, 0852-1100 10/08/2013," 604 Bartholomew Road, NJ",40.523408,-74.458721, Unfounded
+321,Theft, 1530 10/08/2013, 1145-1730 10/01/2013," 33 Livingston Ave, NJ",40.492800,-74.444958, Open Case
+322,Simple Assault, 2056 10/07/2013, 1817 10/08/2013," 603 Marvin Lane, NJ",40.519862,-74.454789, Open Case
+323,Theft, 2059 10/08/2013, 2059 10/03 - 2012 10/08/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+324,Forgery, 1147 10/09/2013, 1600 10/09/2013," 98 Brett Road, NJ",40.522259,-74.459850, Open Case
+325,Suspicious Drugs, 1523 10/09/2013, 1523 10/09/2013," 581 Taylor Road, NJ",39.594496,-75.084295, Open Case
+326,Theft, 1812 10/09/2013, 2345 10/03 - 0010 10/06/2013," Biel Road, NJ",40.478511,-74.430024, Open Case
+327,Harassment, 1658 10/09/2013, 1658 10/09/2013," Commercial Ave, NJ",40.483820,-74.443489, Unfounded
+328,Theft, 1840 10/09/2013, 1800-1830 10/09/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+329,Criminal Trespass, 2322 10/09/2013, 2322 10/09/2013," 23 Avenue E, NJ",40.654783,-74.124154, Open Case
+330,Theft, 2208 10/09/2013, 2125-2130 10/09/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Open Case
+331,Suspicious Drugs, 0040 10/10/2013, 0040 10/10/2013," 620 Marvin Lane, NJ",40.519857,-74.454848, Unfounded
+332,Criminal Trespass/Possession of CDS, 1515 10/10/2013, 0123-0124 10/10/2013," 510 George Street, NJ",40.500805,-74.445716, Open Case
+333,Suspicious Drugs, 1130 10/10/2013, 1130 10/10/2013," 28 Easton Ave, NJ",40.496617,-74.446624, Unfounded
+334,Forgery, 1307 10/10/2013, 0730-1440 10/09/2013," 100 George Street, NJ",40.484347,-74.436933, Open Case
+335,Theft, 2208 10/10/2013, 2100-2110 10/10/2013," 43 Bevier Road, NJ",40.522213,-74.455920, Unfounded
+336,DWI/Refusal, 2342 10/10/2013, 2216 10/10/2013," George and New Sts., NJ",40.492305,-74.443288, Arrest
+337,Theft, 2238 10/10/2013, 2238 10/10/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Unfounded
+338,Disorderly Conduct, 0059 10/11/2013, 2332 10/10/2013," 510 George Street, NJ",40.500805,-74.445716, Arrest
+339,Burglary, 0201 10/11/2013, 0054 10/11/2013," 4 Mine Street, NJ",40.508735,-74.859045, Unfounded
+340,Suspicious Drugs, 0124 10/10/2013, 0124 10/10/2013," 39 Biel Road East, NJ",40.478942,-74.432261, Unfounded
+341,Disclose Sexual Image w/o consent, 1058 10/11/2013, 0000 09/01/2013," 55 Rockefeller Road, NJ",39.559258,-74.855098, Open Case
+342,Theft, 1741 10/11/2013, 1555-1601 10/11/2013," 99 Davidson Road, NJ",40.524863,-74.458820, Open Case
+343,Suspicious Drugs, 0254 10/13/2013, 0254 10/13/2013," 23 Avenue E, NJ",40.654783,-74.124154, Unfounded
+344,Suspicious Drugs, 0115 10/12/2013, 0115 10/12/2013," 290 George Street, NJ",40.491800,-74.443010, Unfounded
+345,Criminal Mischief`, 0352 10/12/2013, 0215 10/12/2013," 611 George Street, NJ",40.503592,-74.448256, Open Case
+346,Theft, 1316 10/12/2013, 0005-0015 10/12/2013," 116 College Ave, NJ",40.502247,-74.451335, Open Case
+347,Theft, 1524 10/12/2013, 2345-2359 10/11/2013," 106 College Ave, NJ",40.501823,-74.450507, Open Case
+348,Theft, 1820 10/12/2013, 1300 10/10/2013," 54 Joyce Kilmer Ave , NJ",40.521980,-74.434878, Open Case
+349,Suspicious Drugs, 0142 10/13/2013, 0142 10/13/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+350,Criminal Mischief`, 0811 10/13/2013, 0900 10/12 - 0730 10/13/2013," 95 Joyce Kilmer Ave, NJ",40.489805,-74.450774, Open Case
+351,Theft, 1201 10/13/2013, 0416 10/13/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+352,Criminal Mischief`, 1407 10/13/2013 , 2300 10/12 - 1300 10/13/2013," 36 Bevier Road, NJ",40.524602,-74.461202, Open Case
+353,Suspicious Drugs, 1625 10/13/2013, 1625.10/13/2013," 1625 10/13/2013, NJ",41.011107,-75.196249, Unfounded
+354,Theft, 1833 10/13/2013, 0000-0030 10/13/2013," 84 Joyce Kilmer Ave, NJ",40.523391,-74.437402, Open Case
+355,Theft, 0141 10/14/2013, 0630-0640 10/13/2014," 1030 River Road, NJ",40.829848,-73.972256, Open Case
+356,Disorderly Conduct/Obstruction/Res Arrest, 0030 10/14/2013, 0000 10/14/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Arrest
+357,Criminal Mischief/Theft, 0744 10/14/2013, 10/13 - 10/14/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+358,Suspicious Drugs, 1455 10/13/2013, 1455 10/13/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Unfounded
+359,Criminal Mischief, 1151 10/14/2013, 1100 10/13 - 0830 10/14/2013," 49 Labor Center Way, NJ",40.480604,-74.425497, Open Case
+360,Burglary/Theft, 1317 10/14/2013, 1600 10/11 - 1400 10/12/2013," 14 Union Street, NJ",40.711379,-74.070809, Open Case
+361,Theft, 1406 10/14/2013, 0138 10/12/2013," 611 George Street, NJ",40.503592,-74.448256, Open Case
+362,Theft, 1814 10/14/2013, 1700 10/14/2013," 113 College Ave, NJ",40.502328,-74.450974, Open Case
+363,Theft, 2148 10/14/2013, 1200 09/30 - 1730 10/01/2013," 14 Union Street, NJ",40.711379,-74.070809, Open Case
+364,Possession of CDS/Poss Paraph, 1523 10/15/2013, 0113 10/15/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Arrest
+365,Possession of CDS/Poss Paraph, 0204 10/16/2013, 0204 10/16/2013," 610 Bartholomew Road, NJ",40.523628,-74.458098, Arrest
+366,Theft, 0431 10/16/2013, 0258-0306 10'/16/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+367,Theft, 1614 10/16/2013, 1400 10/16/2013," 95 Joyce Kilmer Ave, NJ",40.489805,-74.450774, Open Case
+368,Arrest on Warrant, 1840 10/16/2013, 1755 10/16/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Arrest
+369,Fraud/Theft of Credit Card, 2239 10/16/2013, 2239 10/16/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+370,Fraud, 2305 10/16/2013, 1000 09/26/2013," 82 Marvin Lane, NJ",40.520717,-74.453796, Open Case
+371,Suspicious Drugs, 2229 10/16/2013, 2229 10/16/2013," 125 Demerest Hall, NJ",40.999967,-74.023160, Unfounded
+372,Lewd Act, 1053 10/17/2013, 1053 10/17/2013," 53 Avenue E, NJ",40.655622,-74.122199, Open Case
+373,Harassment, 1441 10/17/2013, 1900 10/03/2013," 173 Nichol Ave, NJ",40.480167,-74.442340, Open Case
+374,Simple Assault (DV), 1935 10/17/2013, 1935 10/17/2013," 49 Biel Road West, NJ",40.478495,-74.430041, Open Case
+375,Theft, 1955 10/17/2013, 1804 10/17/2013," 100 Somerset Street, NJ",40.496271,-74.445874, Open Case
+376,Burglary/Theft, 2110 10/18/2013, 1900 09/09 - 1900 10/04/2013," 617 George Street, NJ",40.502700,-74.446712, Open Case
+377,Harassment (DV), 2349 10/17/2013, 2155 10/17/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Open Case
+378,Criminal Mischief, 0411 10/18/2013, 2200-2215 10/17/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Open Case
+379,Poss CDS/Poss Marijuana/Poss Paraphernalia, 0040 10/18/2013, 0040 10/18/2013," 43 Biel Road West, NJ",40.478404,-74.431998, Arrest
+380,Simple Assault, 0236 10/18/2013, 0050-0103 10/18/2013," 51 Mine Street, NJ",40.507407,-74.862790, Open Case
+381,Theft, 0344 10/18/2013, 0030-0100 10/18/2013," 51 Mine Street, NJ",40.507407,-74.862790, Open Case
+382,Theft, 0414 10/18/2013, 0000-0103 10/08/2013," 51 Mine Street, NJ",40.507407,-74.862790, Open Case
+383,Lewd Acts, 0243 10/18/2013, 0243 10/18/2013," 88 Lipman Drive, NJ",40.483272,-74.437281, Unfounded
+384,Suspicious Drugs, 0925 10/18/2013, 0925 10/18/2013," 43 Mine Street, NJ",40.499819,-74.451548, Open Case
+385,Harassment, 1003 10/18/2013, 1003 10/18/2013," 85 George Street, NJ",40.486167,-74.433759, Open Case
+386,Theft, 1827 10/18/2013, 1645-1827 10/18/2013," 656 Bartholomew Rd, NJ",40.519529,-74.460885, Open Case
+387,Theft, 0926 10/18/2013, 10/18/2013 2126," 118 Frelinghuysen Rd, NJ",40.522367,-74.464725, Open Case
+388,Poss CDS/Poss Marijuana/Poss Paraphernalia, 2345 10/18/2013, 2212-2259 10/18/2013," Route 18S., NJ",40.351410,-74.285962, Arrest
+389,Simple Assault;Harassment, 0158 10/19/2013, 0045 10/19/2013," 102 College Avenue, NJ",40.501735,-74.450416, Open Case
+390,Robbery;Simple Assault, 0815 10/19/2013, 0330 10/19/2013," 622 George St, NJ",40.505029,-74.451049, Open Case
+391,Criminal Mischief, 1227 10/19/2013, 1227 10/19/2013," 73 Hamilton Street, NJ",40.747144,-74.161831, Open Case
+392,Burglary/Theft, 1045 10/19/2013, 0300-0900 10/19/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Open Case
+393,Theft, 1708 10/18/2013, 0300-0329 10/19/2013," College and Seniro, NJ",40.504001,-74.452704, Arrest
+394,Simple Assault, 1439 10/19/2013, 200 41/81," 94 Easton Avenue, NJ",40.498704,-74.451513, Open Case
+395,Theft, 1457 10/19/2013, 0300 - 0128 10/19/2013," 58 Easton Avenue, NJ",40.497898,-74.449079, Open Case
+396,Theft, 1619 10/20/2013, 1400-1500 10/19/2013," 656 Bartholomew Road, NJ",40.519529,-74.460885, Open Case
+397,Theft, 1741 10/19/2013, 1500-1615 10/19/2013," 656 Bartholomew Road, NJ",40.519529,-74.460885, Open Case
+398,Theft, 1930pm 10/19/2013, 2300 10/18/2013 1100 10/19/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Open Case
+399,Suspicious Drugs, 2349 10/19/2013, 2349 10/19/2013," 290 George Street, NJ",40.491800,-74.443010, Unfounded
+400,Criminal Mischief, 0136 10/20/2013, 0136 10/20/2013," 2340-2350 10/19/2013, NJ",40.058324,-74.405661, Open Case
+401,DWI, 0512 10/20/2013, 2055-2100 10/20/2013," 126 College Ave, NJ",40.502910,-74.452141, Arrest
+402,Criminal Mischief, 0821 10/20/2013, 0821 10/20/2013," 14 Union Street, NJ",40.711379,-74.070809, Open Case
+403,Theft, 0943 10/20/2013, 0943 10/20/2013," Courtlandt & Duke Sts., NJ",40.498914,-74.457752, Open Case
+404,Criminal Mischief, 1045 10/20/2013, 1722 10/20/2013," Postal Plaza, NJ",40.518358,-74.432484, Open Case
+405,Criminal Mischief, 1413 10/20/2013, 1413 10/20/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+406,Theft, 1922 10/20/2013, 1430 10/19 - 1736 10/20/2013," 188 Davidson Road, NJ",40.528259,-74.465137, Open Case
+407,Theft, 2350 10/20/2013, 1745-1845 10/20/2013," 656 Bartholomew Rd, NJ",40.519529,-74.460885, Open Case
+408,Criminal Mischief, 2246 10/20/2013, 1600 10/11 - 1700 10/20/2013," 23 Bishop Place, NJ",40.501884,-74.450200, Open Case
+409,Theft, 2004 10/20/2013, 2100 10/20/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+410,Assault, 2345 10/20/2013, 2230 10/20/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Open Case
+411,Suspicious Drugs, 2250 10/20/2013, 2250 10/20/2013," 47 Labor Center Way, NJ",40.480604,-74.425497, Unfounded
+412,Theft, 1708 10/21/2013, 1200-2300 10/18/2013," 33 Livingston Ave, NJ",40.492800,-74.444958, Open Case
+413,Theft, 1124 10/21/2013,10/18/2013 21:30:00," 615 George St, NJ",40.502688,-74.446701, Open Case
+414,Theft, 1502 10/21/2013, 1400-1416 10/21/2018," 54 Joyce Kilmer Ave , NJ",40.521980,-74.434878, Open Case
+415,Theft, 1708 10/21/2013, 2130 10/18/2013," 615 George St, NJ",40.502688,-74.446701, Open Case
+416,Harassment, 2108 10/21/2013, 2108 10/21/2013," 52 Brett Road, NJ",40.520599,-74.452656, Open Case
+417,Suspicious Drugs, 2333 10/21/2013, 2333 10/21/2013," 43 Bevier Road, NJ",40.522213,-74.455920, Unfounded
+418,Harassment/Criminal Mischief, 1219 10/22/2013, 1200 06/01 1200 07/31/2013," 51 Street 1603, NJ",40.787336,-74.029798, Open Case
+419,Harassment/Criminal Mischief, 1038 10/22/2013, 2125 10/21/2013," 23 Avenue E, NJ",40.654783,-74.124154, Open Case
+420,Theft, 1331 10/22/2013, 1552 10/19/2013," 85 Davidson Road, NJ",40.524678,-74.457388, Open Case
+421,Theft, 1735 10/22/2013, 1407 10/22/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+422,Theft, 1745 10/22/2013, 1545-1605 10/22/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+423,Theft, 2018 10/22/2013, 0000-0030 10/18/2013," 121 Hamilton St, NJ",40.498551,-74.449250, Open Case
+424,Suspicious Drugs, 2131 10/22/2013, 2131 10/22/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+425,Suspicious Drugs, 0012 10/23/2013, 0012 10/23/2013," 54 Bevier Road, NJ",40.519093,-74.455172, Unfounded
+426,Robbery, 0320 10/22/2013, 0300 10/22/2013," George and Commercial, NJ",40.487205,-74.439965, Open Case
+427,Robbery, 0829 10/23/2013, 0829 10/23/2013," 83 Somerset Street, NJ",40.497862,-74.446363, Open Case
+428,Theft, 0857 10/23/2013, 0857 10/23/2013," 10 Seminary Place, NJ",41.070946,-74.184289, Open Case
+429,Theft, 1056 10/23/2013, 1045 10/23/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+430,Theft, 1153 10/23/2013,10/22/2013," 2 Chapel Drive, NJ",40.535828,-74.580092, Open Case
+431,Theft, 1350 10/23/2013, 1330-1340 10/23/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+432,Theft, 1615 10/23/2013, 1555-1610 10/23/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+433,Theft, 1744 10/23/2013, 2200-2300 10/17/2013," 52 Brett Road, NJ",40.520599,-74.452656, Open Case
+434,Theft, 2353 10/23/2013, 1945-2215 10/22/2013," 177 Ryders Lane, NJ",40.460370,-74.425468, Open Case
+435,Suspicious Drugs, 1957 10/23/2013, 1957 10/23/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Closed Case
+436,Suspicious Drugs, 2136 10/23/2013, 2136 10/23/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Unfounded
+437,Suspicious Drugs, 2239 10/23/2013, 2239 10/23/2013," 125 College Ave, NJ",40.502633,-74.451276, Unfounded
+438,Suspicious Drugs, 2310 10/23/2013, 2310 10/23/2013," 125 College Ave, NJ",40.502633,-74.451276, Unfounded
+439,Suspicious Drugs, 2340 10/23/2013, 2340 10/23/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Unfounded
+440,Arrest on Warrant, 1024 10/24/2013, 1024 1024?2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Arrest
+441,Burglary/Theft, 1353 10/24/2013, 1353 10/24/2013," 10 Seminary Place, NJ",41.070946,-74.184289, Open Case
+442,Suspicious Drugs, 1418 10/24/2013, 1418 10/24/2013," 671 Hoes Lane West, NJ",40.525149,-74.470615, Unfounded
+443,Arrest on Warrant, 1504 10/24/2013, 1504 10/24/2013," 110 Frelinghuysen, NJ",40.822322,-74.500433, Arrest
+444,Suspicious Drugs, 2132 10/24/2013, 2132 10/24/2013," 42 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+445,Suspicious Drugs, 2215 10/24/2013, 2215 10/24/2013," 615 George St, NJ",40.502688,-74.446701, Unfounded
+446,Criminal Attempt/Burglary/Criminal Mischief, 0257 10/25/2013, 0050-0100 1025/2013," 5 Mine Street, NJ",40.508764,-74.859051, Open Case
+447,Suspicious Drugs, 0138 10/25/2013, 0138 10/25/2013," 33 Dudley Road, NJ",40.481377,-74.430420, Unfounded
+448,Suspicious Drugs, 0205 10/25/2013, 0205 10/25/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Unfounded
+449,Poss CDS/Arrest on Warrant, 0325 10/25/2013, 0325 10/25/2013," Mine and Union Sts., NJ",40.499874,-74.451217, Arrest
+450,Suspicious Drugs, 1711 10/25/2013, 1711 10/25/2013," 590 George Street, NJ",40.503713,-74.448559, Unfounded
+451,Trespassing, 1844 10/25/2013, 1844 10/25/2013," 126 College Ave, NJ",40.502910,-74.452141, Arrest
+452,Burrglary/Criminal Mischief, 2343 10/252013, 2015 10/25/2013," 132 George Street, NJ",40.486324,-74.438986, Open Case
+453,Suspicious Drugs, 2209 10/25/2013, 2209 10/25/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Unfounded
+454,Criminal Mischief, 0129 10/26/2013, 129 26/51," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+455,Assault, 0350 10/25/2013, 2100 10/25/2013," 656 Bartholomew Road, NJ",40.519529,-74.460885, Open Case
+456,Aggravated Sexual Assault/Criminal Sexual Contact, 0130 10/26/2013, 0130 10/26/2013," College Ave, NJ",40.502260,-74.450927, Open Case
+457,Criminal Mischief, 1035 10/26/2013, 1035 10/26/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Open Case
+458,Theft, 1035 10/26/2013, 1035 10/26/2013," 135 College Ave, NJ",40.502889,-74.451532, Open Case
+459,Theft, 1340 10/26/2013, 1340 10/26/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+460,Suspicious Drugs, 1346 10/26/2013, 1346 10/26/2013," 615 George St, NJ",40.502688,-74.446701, Unfounded
+461,Assault, 1426 10/26/2013, 1426 10/26/2013," 615 George St, NJ",40.502688,-74.446701, Open Case
+462,Suspicious Drugs, 1803 10/26/2013, 1803 10/26/2013," 32 Biel Road East, NJ",40.478799,-74.432250, Unfounded
+463,Suspicious Drugs, 1933 10/26/2013, 1933 10/26/2013," 33 Dudley Road, NJ",40.481377,-74.430420, Unfounded
+464,Suspicious Drugs, 2129 10/26/2013, 2129 10/26/2013," 618 Marvin Lane, NJ",40.519860,-74.454844, Unfounded
+465,Suspicious Drugs, 2141 10/26/2013, 2141 10/26/2013," 97 Davidson Road, NJ",40.525018,-74.455284, Unfounded
+466,Simple Assault (DV), 0250 10/27/2013, 0250 10/27/2013," 39 Biel Road East, NJ",40.478942,-74.432261, Arrest
+467,Criminal Mischief, 0501 10/27/2013, 1030-1115 10/27/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+468,Criminal Mischief, 0557 10/27/2013, 0045 10/27/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+469,Suspicious Drugs, 0318 10/27/2013, 0318 10/27/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+470,DWI, 0630 10/27/2013, 0334 10/27/2013," Campus and Sutphen, NJ",40.516459,-74.459347, Arrest
+471,Criminal Mischief, 0925 10/27/2013, 0925 10/27/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+472,Disorderly Conduct, 1128 10/27/2013, 1128 10/27/2013," 135 College Ave, NJ",40.502889,-74.451532, Open Case
+473,Theft, 1257 10/27/2013, 1257 10/27/2013," 50 Biel Road, NJ",40.478553,-74.432276, Open Case
+474,Criminal Mischief, 2106 10/27/2013, 2130 10/26 - 1200 10/27/2013," 611 George Street, NJ",40.503592,-74.448256, Open Case
+475,Theft, 2056 10/27/2013, 183001835 25/49," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+476,Burglary/Theft, 2137 10/27/2013, 0000-2030 10/27/2013," 6 Berrue Circle, NJ",40.524138,-74.431171, Open Case
+477,Burglary/Theft/Criminal Mischief, 0830 10/28/2013, 0830 10/28/2013," 135 George Street, NJ",40.447888,-74.386453, Open Case
+478,Theft, 0739 10/28/2013, 0739 10/28/2013," 675 Hoes Lane W, NJ",40.525052,-74.470199, Open Case
+479,Theft, 1139 10/28/2013, 1139 10/28/2013," 106 Somerset Street, NJ",40.497598,-74.447286, Open Case
+480,Theft, 1415 10/28/2013, 1415 10/28/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+481,Poss Drug Paraphernalia, 1544 10/28/2013, 1544 10/28/2013," 93 Gibbons Circle, NJ",40.486322,-74.431708, Arrest
+482,Theft, 1600 10/28/2013, 1600 10/28/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+483,Theft, 2125 10/28/2013, 0440 10/24 - 0800 10/25/2013," 53 Avenue E, NJ",40.655622,-74.122199, Open Case
+484,Theft, 1701 10/28/2013, 1701 10/28/2013," 198 Davidson Road, NJ",40.528340,-74.465345, Open Case
+485,Theft, 2219 10/28/2013, 1630-1830 10/28/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+486,Receiving Stolen Property, 2325 10/28/2013, 2325 10/28/2013," 61 Road 3, NJ",40.519574,-74.433679, Open Case
+487,Suspicious Drugs, 0139 10/29/2013, 0139 10/29/2013," 91 Gibbons Circle, NJ",40.485277,-74.432159, Unfounded
+488,Criminal Mischief, 1208 10/29/2013, 1208 10/29/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Open Case
+489,Criminal Mischief, 1419 10/29/2013, 1419 10/29/2013," 66 College Ave, NJ",40.500191,-74.449212, Open Case
+490,Harassment, 1423 10/29/2013, 1423 10/29/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+491,Theft, 1933 10/29/2013, 1230-1240 10/29/2013," 115 College Ave, NJ",40.502359,-74.451005, Open Case
+492,Theft, 2323 10/29/2013, 1545-1900 10/29/2013," 72 Lipman Drive, NJ",40.197349,-74.030196, Open Case
+493,Suspicious Drugs, 2340 10/29/2013, 2340 10/29/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Closed Case
+494,Suspicious Drugs, 0314 10/30/2013, 0314 10/30/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Unfounded
+495,Suspicious Drugs, 0037 10/30/2013, 0037 10/30/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Open Case
+496,Theft, 0906 10/30/2013, 0906 10/30/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+497,Harassment, 1004 10/30/2013, 1004 10/30/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+498,False Public Alarm, 2748 10/30/2013, 1639 10/30/2013," 153 Davidson Road, NJ",40.524987,-74.455654, Open Case
+499,Harassment, 1802 10/30/2013, 2153 10/29 - 1133 10/30/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Open Case
+500,Theft, 2248 10/30/2013, 1400-1405 10/29/2013," 8 Chapel Drive, NJ",40.536134,-74.579574, Open Case
+501,Trespassing, 0005 10/31/2013, 2200-2230 10/23/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Open Case
+502,Arrest on Warrant, 2357 10/30/2013, 2322 10/30/2013," 145 College Ave, NJ",40.502964,-74.451611, Arrest
+503,Theft, 1007 10/31/2013, 1007 10/31/2013," 303 George Street, NJ",40.492523,-74.443038, Open Case
+504,Fraud, 1127 10/31/2013, 1127 10/31/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+505,Theft, 1216 10/31/2013, 1216 10/31/2013," 8 Chapel Drive, NJ",40.536134,-74.579574, Open Case
+506,Suspicious Drugs, 1444 10/31/2013, 1444 10/31/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Open Case
+507,Theft, 1506 10/31/2013, 1506 10/31/2013," 581 Taylor Road, NJ",39.594496,-75.084295, Open Case
+508,Theft, 1505 10/31/2013, 1505 10/31/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+509,Theft, 1546 10/31/2013, 1546 10/31/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+510,Criminal Mischief, 1614 10/31/2013, 1614 10/31/2013," 52 Biel Road, NJ",40.478656,-74.428718, Open Case
+511,Theft, 1724 10/31/2013, 1724 10/31/2013," 36 Bevier Road, NJ",40.524602,-74.461202, Open Case
+512,Harassment, 2054 10/31/2013, 2054 10/31/2014," 47 Avenue E, NJ",40.655430,-74.122520, Open Case
+513,Suspicious Drugs, 2115 10/31/2013, 2115 10/31/2013," 117 College Ave, NJ",40.502390,-74.451035, Unfounded
+514,Suspicious Drugs, 2125 10/31/2013, 2125 10/31/2013," 95 Joyce Kilmer Ave, NJ",40.489805,-74.450774, Closed Case
+515,Suspicious Drugs, 2213 10/31/2013, 2213 10/31/2013," 34 Biel Road West, NJ",40.478444,-74.432011, Unfounded
+516,Suspicious Drugs, 2312 10/31/2013, 2312 10/31/2013," 34 Biel Road East, NJ",40.478444,-74.432011, Unfounded
+517,Criminal Mischief, 2319 10/31/2013, 2120 - 2310 10/31/2013," Huntington and College, NJ",40.505140,-74.453847, Open Case
+518,Harassment, 0511 11/1/2013, 0511 11/01/2013," 47 Avenue E, NJ",40.655430,-74.122520, Open Case
+519,DWI, 0332 11/1/2013, 0113 11/01/2013," Senior and Wyckoff, NJ",40.502083,-74.455937, Arrest
+520,DWI, 0219 11/01/2013, 0127 11/01/2013," 617 George Street, NJ",40.502700,-74.446712, Arrest
+521,Harassment, 0130 11/01/2013, 0130 11/01/2013," 130 College Ave, NJ",40.502996,-74.453406, Open Case
+522,MV Theft, 0417 11/01/2013, 0138 11/01/2013," 124 College Ave, NJ",40.502492,-74.451183, Open Case
+523,Suspicious Drugs, 0159 11/01/2013, 0159 11/01/2013," 23 Bishop Place, NJ",40.501884,-74.450200, Unfounded
+524,Assault, 0352 11/01/2013, 0100 11/01/2013," College and Bartlett, NJ",40.502317,-74.450986, Open Case
+525,Theft, 1143 11/01/2013, 1143 11/01/2013," 157 College Ave, NJ",40.503053,-74.451706, Open Case
+526,Theft, 1326 11/01/2013, 1326 11/01/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+527,Theft, 1601 11/01/2013, 1601 11/01/2013," 303 George Street, NJ",40.492523,-74.443038, Open Case
+528,Assault, 2200 11/01/2013, 2200 11/01/2013," Commercial and George, NJ",40.487205,-74.439965, Unfounded
+529,Theft, 0127 11/02/2013, 0127 11/02/2013," Nichol and Suydam, NJ",40.483659,-74.438678, Open Case
+530,Criminal Mischief, 0442 11/02/2013, 2312 11/01/2013," 615 George Street, NJ",40.502688,-74.446701, Open Case
+531,Defiant Trespassing, 0148 11/02/2013, 0015 11/02/2013," 118 Frelinghuysen Road, NJ",40.522367,-74.464725, Arrest
+532,Simple Assault, 0601 11/02/2013, 1145 11/01 - 0000 11/02/2013," 52 College Ave, NJ",40.500651,-74.449311, Open Case
+533,Simple Assault, 0353 11/02/2013, 0300 11/02/2013," 66 College Ave, NJ",40.500191,-74.449212, Open Case
+534,Possession of a Weapon, 1439 11/02/2013, 1439 11/02/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Arrest
+535,Fraud, 1635 11/02/2013, 1500-1510 11/02/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Open Case
+536,Assault, 1612 11/02/2013, 1612 11/02/2013," 108 Frelinghuysen Road, NJ",40.522367,-74.464725, Open Case
+537,Theft, 1729 11/02/2013, 1500-1600 11/02/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+538,Assault/Theft, 2035 11/02/2013, 0120-0150 11/02/2013," 122 College Ave, NJ",40.502540,-74.451270, Open Case
+539,Criminal Mischief, 0116 11/03/2013, 0110 11/03/2013," 124 College Ave, NJ",40.502492,-74.451183, Open Case
+540,Theft, 1003 11/03/2013, 1003 11/03/2013," 28 Easton Ave, NJ",40.496617,-74.446624, Open Case
+541,Harassment (DV), 1301 11/03/2013, 2259 11/02/2013," 47 Bevier Road, NJ",40.522330,-74.456103, Open Case
+542,Criminal Mischief, 1343 11/03/2013, 1343 11/03/2013," 70 Joyce Kilmer Ave, NJ",40.490643,-74.449869, Open Case
+543,Suspicious Drugs, 1454 11/03/2013, 1454 11/03/2013," 34 Biel Road W, NJ",40.478444,-74.432011, Unfounded
+544,Theft, 2122 11/03/2013, 2300-2315 11/03/2013," 117 College Ave, NJ",40.502390,-74.451035, Open Case
+545,Suspicious Drugs, 2056 11/03/2013, 2056 11/03/2013," 623 Marvin Lane, NJ",40.519831,-74.454829, Unfounded
+546,Criminal Mischief, 2344 11/03/2013, 2130-2230 11/03/2013," 615 George Street, NJ",40.502688,-74.446701, Open Case
+547,Disorderly Conduct, 2339 11/03/2013, 2140-2145 11/03/2013," 100 Davidson Road, NJ",40.526901,-74.462342, Open Case
+548,Theft, 1256 11/04/2013, 1030-1040 11/04/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+549,Forgery, 1117 11/04/2013, 1117 11/04/2013," 581 Taylor Road, NJ",39.594496,-75.084295, Open Case
+550,Criminal Trespass, 1222 11/04/2013, 0001 11/01/12013," 135 College Ave, NJ",40.502889,-74.451532, Open Case
+551,Harassment, 1423 11/04/2013, 1423 11/04/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+552,Lewdness, 1608 11/04/2013, 1608 11/04/2013," College Ave, NJ",40.502260,-74.450927, Open Case
+553,Theft, 1749 11/04/2013, 1749 11/04/2013," 619 Bowser Road, NJ",40.521707,-74.458657, Open Case
+554,Theft, 2034 11/04/2013, 2034 11/04/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+555,Theft, 2150 11/04/2013, 0030 11/01/2013," 164 Easton Ave, NJ",40.499844,-74.454052, Open Case
+556,Simple Assault, 0343 11/05/2013, 0600-0700 11/03/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Open Case
+557,Theft, 2204 11/04/2013, 1845-2000 11/04/2013," 656 Bartholomew Road, NJ",40.519529,-74.460885, Open Case
+558,Theft, 0403 11/05/2013, 0015-2300 11/05/2013," 113 College Ave, NJ",40.502328,-74.450974, Open Case
+559,Theft, 1025 11/05/2013, 0900 10/11 - 1730 10/30/2013," 89 French Street, NJ",40.493998,-74.451100, Open Case
+560,Harassment, 1149 11/05/2013, 0030-0230 11/02/2013," 272 Hamilton Street, NJ",40.496140,-74.457393, Open Case
+561,Theft, 1621 11/05/2013, 1203 11/05/2013," 671 Hoes Lane West, NJ",40.525149,-74.470615, Open Case
+562,Theft, 1301 11/05/2013, 1600-1700 11/04/2013," 54 Joyce Kilmer Ave, NJ",40.521980,-74.434878, Open Case
+563,Theft, 1425 11/05/2013, 1425 11/05/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+564,Theft, 1655 11/05/2013, 1700 10/31 - 0058 11/05/2013," 625 Marvin Lane, NJ",40.519831,-74.454829, Open Case
+565,Theft, 0006 11/06/2013, 2200 10/30 - 1600 11/05/2013," 290 George Street, NJ",40.491800,-74.443010, Open Case
+566,Possession of Drug Paraphernalia, 0224 11/06/2013, 0118 11/06/2013," Bishop and George, NJ",40.486383,-74.439076, Arrest
+567,Theft, 1052 11/06/2013, 1030-1630 11/01/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+568,Lewdness, 1150 11/06/2013, 1150 11/06/2013," 89 George Street, NJ",40.448511,-74.385736, Arrest
+569,Theft, 1420 11/06/2013, 1700 10/31 - 1000 11/04/2013," 45 Biel Road, NJ",40.478364,-74.431345, Open Case
+570,Theft, 1346 11/06/2013, 1030 - 1100  11/05/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+571,Fraud, 1633 11/06/2013, 0800 10/18 - 1600 11/01/2013," 620 George Street, NJ",40.505028,-74.451048, Open Case
+572,Theft, 1836 11/06/2013, 1500-1700 11/06/2013," 42 Biel Road West, NJ",40.478469,-74.430535, Open Case
+573,Theft, 2221 11/06/2013, 1900 11/06/2013," 98 Brett Road, NJ",40.522259,-74.459850, Open Case
+574,Theft, 0838 11/07/2013, 0838 11/07/2013," 112 Ryders Lane, NJ",40.471502,-74.422760, Open Case
+575,Theft, 1528 11/07/2013, 1528 11/07/2013," 618 Allison Road, NJ",40.077299,-74.840921, Open Case
+576,Possession of CDS, 1625 11/07/2013, 1625 11/07/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Arrest
+577,Theft, 1837 11/07/2013, 1600-1730 11/07/2013," 50 Biel Road, NJ",40.478553,-74.432276, Open Case
+578,Criminal Mischief, 1601 11/08/2013, 1400 11/07/2013," 615 George Street, NJ",40.502688,-74.446701, Open Case
+579,Possession of CDS, 0203 11/08/2013, 2329 11/08/2013," 28 Gibbons Circle, NJ",40.752967,-74.434740, Arrest
+580,Suspicious Drugs, 0007 11/08/2013, 0007 11/08/2013," 55 Rockafeller Road, NJ",40.525539,-74.438223, Unfounded
+581,Suspicious Drugs, 0013 11/08/2013, 0013 11/08/2013," 617 George Street, NJ",40.502700,-74.446712, Unfounded
+582,Suspicious Drugs, 0027 11/08/2013, 0027 11/08/2013," 117 College Ave, NJ",40.502390,-74.451035, Unfounded
+583,Under/age Possession of Alcohol, 0327 11/08/2013, 0216 11/08/2013," Hamilton and Union, NJ",40.709976,-74.287495, Arrest
+584,Criminal Mischief, 1100 11/08/2013, 0800 11/01 - 0800 11/04/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+585,Harasment, 1040 11/08/20`3, 1040 11/08/2013," 96 Frelinghuysen Road, NJ",40.521488,-74.461562, Open Case
+586,Theft, 1611 11/08/2013, 1030 10/28 - 1000 11/08/2013," 89 French Street, NJ",40.493998,-74.451100, Open Case
+587,Burglary/Theft, 1642 11/08/2013, 1400 11/08/2013," 7 College Ave, NJ",40.497970,-74.447043, Open Case
+588,Harassment, 1512 11/08/2013, 1512 11/08?2013," 125 Paterson Street, NJ",40.494526,-74.449619, Closed Case
+589,Harassment, 1639 11/08/2013, 1622 11/08/2013," 169 College Ave, NJ",40.504402,-74.453090, Open Case
+590,Theft, 1645 11/08/2013, 0038 10/27/2013," 142 Easton Ave, NJ",40.499514,-74.453214, Open Case
+591,Harassment, 1659 11/08/2013, 1659 11/08/2013," 7 College Ave, NJ",40.497970,-74.447043, Closed Case
+592,Theft, 1834 11/08/2013, 1000 - 1500 11/08/2013," 89 George Street, NJ",40.448511,-74.385736, Open Case
+593,Theft, 2020 11/08/2013, 2020 11/08/2013," 51 Commercial Ave, NJ",40.488190,-74.438945, Closed Case
+594,Assault, 0111 11/09/203, 0110 11/09/2013," 62 College Ave, NJ",40.500666,-74.449327, Open Case
+595,Theft, 1519 11/09/2013, 1300-1430 11/09/2013," College & Hamilton St,, NJ",40.499028,-74.447664, Open Case
+596,Assault, 0328 11/10/2013, 0012 11/10/2013," 30 Easton Ave, NJ",40.496852,-74.446978, Open Case
+597,Suspicious Drugs, 0110 11/10/2013, 0110 11/10/2013," 42 Biel Road West, NJ",40.478469,-74.430535, Unfounded
+598,Criminal Mischief, 0656 11/10/2013, 0630-0656 11/10/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+599,Suspicious Drugs, 2352 11/10/2013, 2352 11/10/2013," 125 College Ave, NJ",40.502633,-74.451276, Unfounded
+600,Criminal Mischief, 1036 11/11/2013, 1036 11/11/2013," 53 Avenue E, NJ",40.655622,-74.122199, Open Case
+601,Theft, 1605 11/11/2013, 1605 11/11/2013," 196 Davidson Road, NJ",40.528206,-74.466504, Open Case
+602,Fraudulent Use of Credit Card, 1712 11/11/2013, 1400 11/07 - 0855 11/10/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+603,Theft, 1750 11/11/2013, 1900 11/06 - 1630 11/08/2013," 1 Scarlet Knight Way, NJ",40.513197,-74.464098, Open Case
+604,Suspicious Drugs, 1635 11/11/2013, 1635 11/11/2013," 671 Hoes Lane West, NJ",40.525149,-74.470615, Open Case
+605,Suspicious Drugs, 1805 11/11/2013, 1805 11/11/2013," 125 College Ave, NJ",40.502633,-74.451276, Unfounded
+606,Suspicious Drugs, 1940 11/11/2013, 1940 11/11/2013," 611 George Street, NJ",40.503592,-74.448256, Unfounded
+607,Theft, 2259 11/11/2013, 1300-1330 11/11/2013," 36 Bevier Road, NJ",40.524602,-74.461202, Open Case
+608,Suspicious Drugs, 2255 11/11/2013, 2255 11/11/2013," 43 Dudley Road, NJ",40.480139,-74.432087, Unfounded
+609,Poss CDS/Poss Drug Paraphernalia, 0357 11/12/2013, 0126 11/12/2013," 42 Bevier Road, NJ",40.524602,-74.461202, Arrest
+610,Theft, 1207 11/12/2013, 1330 11/08 - 1800 11/11/2013," 126 College Ave, NJ",40.502910,-74.452141, Open Case
+611,Theft, 1744 11/12/2013, 1400 11/12/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+612,Theft, 1517 11/1/2/2013, 0900 11/01 2200 11/09/2013," 590 George Street, NJ",40.503713,-74.448559, Open Case
+613,Theft, 1450 11/12/2013, 1450 11/12/2013," 85 Avenue E, NJ",40.656481,-74.121299, Open Case
+614,Harassment (DV), 2102 11/12/2013, 2102 11/12/2013," 100 Davidson Road, NJ",40.526901,-74.462342, Open Case
+615,Theft, 2025 11/12/2013, 1400-1405 11/12/2013," 75 Avenue E, NJ",40.656074,-74.121655, Open Case
+616,Theft, 0414 11/13/2013, 1149-1730 11/12/2013," 105 Joyce Kilmer Ave, NJ",40.489263,-74.451345, Open Case
+617,Unlawful Possession of a Weapon, 2341 11/12/2013, 2341 11/12/2013," 620 Marvin Lane, NJ",40.519857,-74.454848, Arrest
+618,Harassment (DV), 0312 11/13/2013, 1200 10/02 - 2304 11/12/2013," 7 Suydam Street, NJ",40.483828,-74.438922, Open Case
+619,Suspicious Drugs, 2318 11/12/2013, 2318 11/12/2013," 15 Suydam Street, NJ",40.484025,-74.439244, Unfounded
+620,Theft, 1431 11/13/2013, 2030 11/11 - 0930 11/12/2013," 131 George Street, NJ",40.486102,-74.438618, Open Case
+621,Theft, 1531 11/13/2013, 1531 11/13/2013," 33 Davidson Road, NJ",40.525085,-74.454877, Unfounded
+622,Suspicious Drugs, 0154 11/14/2013, 0154 11/14/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Unfounded
+623,Theft, 1833 11/13/2013, 2100-2130 11/11/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+624,Theft, 2036 11/13/2013, 1935 11/13/2013," 50 Biel Road, NJ",40.478553,-74.432276, Open Case
+625,Theft, 1857 11/13/2013, 1200-1300 11/08/2013," 604 Bartholomew Road, NJ",40.523408,-74.458721, Open Case
+626,Theft, 1209 11/14/2013, 10/15-10/20/2013," 111 Davidson Road, NJ",40.525003,-74.455373, Open Case
+627,Suspicious Drugs, 1221 11/14/2013, 1221 11/14/2013," 125 College Ave, NJ",40.502633,-74.451276, Unfounded
+628,Identity Theft, 1319 11/14/2013, 1200 11/13/2013," 55 Commercial Ave, NJ",40.487919,-74.439785, Open Case
+629,Theft, 1841 11/14/2013, 1000-1500 11/12/2013," 43 College Ave, NJ",40.500647,-74.449260, Open Case
+630,Theft, 1919 11/14/2013, 1500 10/16 - 1100 10/18/2013," 117 College Ave, NJ",40.502390,-74.451035, Open Case
+631,Theft, 2119 11/14/2013, 1200 10/24 - 1200 11/07/2013," 32 Bevier Road, NJ",40.524602,-74.461202, Open Case
+632,Possession of CDS, 2327 11/14/2013, 2225 11/14/2013," 117 College Ave, NJ",40.502390,-74.451035, Arrest
+633,Possession of CDS, 0113 11/15/2013, 0400-0023 11/15/2013," 23 Avenue E, NJ",40.654783,-74.124154, Arrest
+634,Assault , 0518 11/15/2013, 0012 11/15/2013," 173 Ryders Lane, NJ",40.460438,-74.425476, Open Case
